@@ -1,8 +1,9 @@
-# myarch
+# archlinux-install
 ---
+# 1- install.sh
+# 2- reboot
+# done!
 
-- Run:
-- `curl -L git.io/myarch | bash`
 
 # requirements
 ---
